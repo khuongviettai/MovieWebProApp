@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Movie Webview Pro Java</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+    <string name="nav_account">Account</string>
+    <string name="all_movies">All Movies</string>
+
+    <string name="movie_hint">Name…</string>
+    <string name="splash_text">Highly committed to quality products &amp; excellent services</string>
+    <string name="tincoder">TinCoder</string>
+
+    // action
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="hint_email">Email…</string>
+    <string name="hint_password">Password…</string>
+    <string name="hint_password_old">Old password…</string>
+    <string name="hint_password_new">New password…</string>
+    <string name="hint_password_confirm">Confirm new password…</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="have_not_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="change_password">Change password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="reset_password">Reset password</string>
+
+    <string name="msg_get_date_error">General error, please try again later</string>
+    <string name="msg_exit_app">Are you sure you want to exit?</string>
+    <string name="msg_waiting_message">Please wait…</string>
+
+    <string name="msg_email_require">Please enter your email</string>
+    <string name="msg_password_require">Please enter your password</string>
+    <string name="msg_email_invalid">Your email is invalid</string>
+
+    <string name="msg_old_password_require">Please enter old password</string>
+    <string name="msg_new_password_require">Please enter new password</string>
+    <string name="msg_confirm_password_require">Please enter confirm new password</string>
+    <string name="msg_old_password_invalid">Old password is incorrect</string>
+    <string name="msg_confirm_password_invalid">Confirm new password does not match</string>
+    <string name="msg_new_password_invalid">The new password is the same as the old password</string>
+
+    <string name="msg_change_password_successfully">Change password successfully</string>
+    <string name="msg_reset_password_successfully">Password reset is successful, please check your email</string>
+
+    <string name="msg_sign_up_error">Registration failed, please try again</string>
+    <string name="msg_sign_in_error">Login failed, please try again</string>
+</resources>

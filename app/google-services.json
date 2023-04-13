@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630125498802",
+    "firebase_url": "https://moviewebproapp-8c3fa-default-rtdb.firebaseio.com",
+    "project_id": "moviewebproapp-8c3fa",
+    "storage_bucket": "moviewebproapp-8c3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630125498802:android:37c0757aa9dfe84e2054ab",
+        "android_client_info": {
+          "package_name": "com.khuongviettai.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630125498802-37jac5kph4gpj2rib382ooq798t9dld0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9j_aa7NtWPS8nGPGHmIKtrhHqMOInN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630125498802-37jac5kph4gpj2rib382ooq798t9dld0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
