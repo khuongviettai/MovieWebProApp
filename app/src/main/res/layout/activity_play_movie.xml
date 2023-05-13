@@ -6,7 +6,7 @@
     android:background="@color/black"
     android:fitsSystemWindows="true"
     android:theme="@style/Widget.MaterialComponents.MaterialCalendar.Fullscreen"
-    tools:context="com.pro.movie.activity.PlayMovieActivity">
+    tools:context="com.khuongviettai.movie.activity.PlayMovieActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"

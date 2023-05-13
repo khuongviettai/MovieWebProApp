@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:630125498802:android:37c0757aa9dfe84e2054ab",
+        "mobilesdk_app_id": "1:630125498802:android:b37f8a49d1ed218d2054ab",
         "android_client_info": {
           "package_name": "com.khuongviettai.movie"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "630125498802-oilo99gtm80i70h19kmijte4ruqi5p1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khuongviettai.movie",
+            "certificate_hash": "332b19624ba94fd4237fc5553645a03d6a488a7e"
+          }
+        },
         {
           "client_id": "630125498802-37jac5kph4gpj2rib382ooq798t9dld0.apps.googleusercontent.com",
           "client_type": 3

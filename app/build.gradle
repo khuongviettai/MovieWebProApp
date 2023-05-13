@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.pro.movie"
+        applicationId "com.khuongviettai.movie"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1

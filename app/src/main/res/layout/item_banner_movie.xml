@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.pro.movie.widget.AspectRatioNoRadiusImageView
+        <com.khuongviettai.movie.widget.AspectRatioNoRadiusImageView
             android:id="@+id/img_banner"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

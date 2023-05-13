@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.pro.movie">
+    package="com.khuongviettai.movie">
 
     <uses-configuration android:name="android.pemission.INTERNET" />
     <uses-configuration android:name="android.pemission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:name=".MyApplication"
+        android:name="com.khuongviettai.movie.MyApplication"
         android:allowBackup="false"
         tools:replace="android:allowBackup"
         android:fitsSystemWindows="true"
@@ -22,7 +22,7 @@
 
         <activity
             android:exported="true"
-            android:name=".activity.SplashActivity">
+            android:name="com.khuongviettai.movie.activity.SplashActivity">
             <intent-filter>
                 <action
                     android:name="android.intent.action.MAIN" />
@@ -32,28 +32,28 @@
 
         <activity
             android:exported="false"
-            android:name=".activity.MainActivity" />
+            android:name="com.khuongviettai.movie.activity.MainActivity" />
 
         <activity
             android:exported="false"
-            android:name=".activity.PlayMovieActivity"
+            android:name="com.khuongviettai.movie.activity.PlayMovieActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
 
         <activity
             android:exported="false"
-            android:name=".activity.SignInActivity" />
+            android:name="com.khuongviettai.movie.activity.SignInActivity" />
 
         <activity
             android:exported="false"
-            android:name=".activity.SignUpActivity" />
+            android:name="com.khuongviettai.movie.activity.SignUpActivity" />
 
         <activity
             android:exported="false"
-            android:name=".activity.ForgotPasswordActivity" />
+            android:name="com.khuongviettai.movie.activity.ForgotPasswordActivity" />
 
         <activity
             android:exported="false"
-            android:name=".activity.ChangePasswordActivity" />
+            android:name="com.khuongviettai.movie.activity.ChangePasswordActivity" />
     </application>
 
 </manifest>
